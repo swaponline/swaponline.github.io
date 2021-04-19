@@ -2,7 +2,7 @@
   "version": "1.0.42",
   "api_version": 1,
   "layout": {
-    "logo": "https://swaponline.github.io/assets/yandex-browser-50x50.png",
+    "logo": "yandex-browser-50x50.png",
     "color": "#fff",
     "show_title": true
   }
