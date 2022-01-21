@@ -1,0 +1,1 @@
+window.buildOptions={showWalletBanners:!0,showHowItsWork:!0,curEnabled:{btc:!0,eth:!0,bnb:!0,matic:!0,arbeth:!0,xdai:!0,ghost:!0,next:!0},blockchainSwapEnabled:{btc:!0,eth:!1,bnb:!1,matic:!1,arbeth:!1,xdai:!1,ghost:!1,next:!1},defaultExchangePair:{buy:"{eth}wbtc",sell:"btc"}};
